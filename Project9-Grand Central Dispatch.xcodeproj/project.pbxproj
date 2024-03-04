@@ -46,7 +46,7 @@
 		007FC9C02B8CAE97001A227D = {
 			isa = PBXGroup;
 			children = (
-				007FC9CB2B8CAE98001A227D /* Project7-Whitehouse Petitions */,
+				007FC9CB2B8CAE98001A227D /* Project9-Grand Central Dispatch */,
 				007FC9CA2B8CAE98001A227D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,7 +59,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		007FC9CB2B8CAE98001A227D /* Project7-Whitehouse Petitions */ = {
+		007FC9CB2B8CAE98001A227D /* Project9-Grand Central Dispatch */ = {
 			isa = PBXGroup;
 			children = (
 				007FC9CC2B8CAE98001A227D /* AppDelegate.swift */,
@@ -73,7 +73,7 @@
 				007FC9D72B8CAE9E001A227D /* LaunchScreen.storyboard */,
 				007FC9DA2B8CAE9E001A227D /* Info.plist */,
 			);
-			path = "Project7-Whitehouse Petitions";
+			path = "Project9-Grand Central Dispatch";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
